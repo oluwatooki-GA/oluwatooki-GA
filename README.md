@@ -4,7 +4,10 @@
 
 ## AI Backend Developer
 
-> A passionate developer.
+> I'm a backend Engineer with three years of experience building production systems in Python and TypeScript. My work spans API 
+development, async architectures, distributed systems, and AI-integrated backends, including RAG pipelines and LLM-based 
+data processing. I've built a four-process event-driven price aggregation platform, a RAG-based chatbot serving tens of 
+thousands of users, and automated pipelines handling tens of thousands of records in production.
 
 ### 🏢 Experience
 
